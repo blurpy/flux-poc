@@ -5,3 +5,4 @@ resources:
   - nginx-svc.yaml
   - nginx-ingress.yaml
   - test-clusterrole.yaml
+  - nginx-pod-default.yaml
