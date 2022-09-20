@@ -4,3 +4,5 @@ resources:
   - namespace.yaml
   - podinfo-helmrepo.yaml
   - podinfo-helmrel.yaml
+  - sa-flux.yaml
+  - rolebinding.yaml
