@@ -15,3 +15,4 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: podinfo
+  serviceAccountName: sa-flux
